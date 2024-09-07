@@ -1,0 +1,9 @@
+numpy
+tqdm
+scikit-learn==1.1.2
+monai==1.0.0
+nibabel==4.0.2
+scipy==1.9.1
+SimpleITK==2.2.0
+scikit-image==0.19.3
+torchmetrics
