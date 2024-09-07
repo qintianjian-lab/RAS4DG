@@ -1,6 +1,4 @@
-<h3 style="text-align: center;">RAS<sup>4</sup>DG:Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis</h2>
-
-------
+<h1 style="text-align: center;">RAS<sup>4</sup>DG:Medical Image Segmentation via Single-Source Domain Generalization with Random Amplitude Spectrum Synthesis</h1>
 
 <div style="text-align: center;"> <a href="https://link-to-qiang-qiao-profile">Qiang Qiao</a><sup>1</sup>,  <a href="https://link-to-wenyu-wang-profile">Wenyu Wang</a><sup>1</sup>,  <a href="https://link-to-meixia-qu-profile">Meixia Qu</a><sup>1</sup>,  <a href="https://link-to-kun-su-profile">Kun Su</a><sup>1</sup>,  <a href="https://link-to-bin-jiang-profile">Bin Jiang</a><sup>1</sup>,  <a href="https://link-to-qiang-guo-profile">Qiang Guo</a><sup>2</sup> </div>  <div style="text-align: center;"> <sup>1</sup> Shandong University, <sup>2</sup> Shandong University of Finance and Economics 
 </div>
