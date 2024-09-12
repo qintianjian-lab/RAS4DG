@@ -2,9 +2,8 @@
 
 <div style="text-align: center;"> <a href="https://link-to-qiang-qiao-profile">Qiang Qiao</a><sup>1</sup>,  <a href="https://link-to-wenyu-wang-profile">Wenyu Wang</a><sup>1</sup>,  <a href="https://link-to-meixia-qu-profile">Meixia Qu</a><sup>1</sup>,  <a href="https://link-to-kun-su-profile">Kun Su</a><sup>1</sup>,  <a href="https://link-to-bin-jiang-profile">Bin Jiang</a><sup>1</sup>,  <a href="https://link-to-qiang-guo-profile">Qiang Guo</a><sup>2</sup> </div>  <div style="text-align: center;"> <sup>1</sup> Shandong University, <sup>2</sup> Shandong University of Finance and Economics 
 </div>
-
 <div style="text-align: center;">
-    <a href="https://github.com/qiaoqiangPro?tab=repositories">
+    <a href="https://arxiv.org/abs/2409.04768">
         <img src="https://img.shields.io/badge/Arvix-RAS4DG-red" alt="Github Stars"/>
     </a>
     <a href="https://github.com/qiaoqiangPro?tab=repositories">
@@ -15,6 +14,7 @@
         <img src="https://typewriter-orpin.vercel.app/typewriter/?font=Fira+Code&pause=1000&center=false&width=435&lines=Single-Source+Domain+Generalization;Random+Amplitude+Spectrum+Synthesis" alt="Typing SVG" />
     </a>
 </div>
+
 
 ## 🏃‍♂️ Getting Started
 
